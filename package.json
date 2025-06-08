@@ -1,16 +1,17 @@
 {
-  "name": "nombre-de-tu-app",
+  "name": "jonally-app",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "start": "expo start",
+    "start": "dotenvx run --env-file=.env.dev -- expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo run:android",
-    "ios": "expo run:ios",
+    "android": "dotenvx run --env-file=.env.production -- expo run:android",
+    "ios": "dotenvx run --env-file=.env.production -- expo run:ios",
     "web": "expo start --web",
     "lint": "expo lint"
   },
   "dependencies": {
+    "@dotenvx/dotenvx": "^1.44.1",
     "@expo/vector-icons": "^14.1.0",
     "@react-navigation/bottom-tabs": "^7.3.10",
     "@react-navigation/elements": "^2.3.8",
