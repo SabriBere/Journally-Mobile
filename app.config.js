@@ -1,4 +1,4 @@
-// import "dotenvx/config";
+import '@dotenvx/dotenvx/config';
 
 export default {
   expo: {
