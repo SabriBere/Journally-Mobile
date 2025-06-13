@@ -6,7 +6,7 @@
 
 # 📔 Journally Mobile App
 
-<h2 id="español"><a href="#español"><img src="https://flagcdn.com/w20/es.png" alt="Español" /></a> 🇪🇸</h2>
+<h2 id="español"><a href="#español"><img src="https://flagcdn.com/w20/es.png" alt="Español" /></a>🇪🇸</h2>
 
 
 Una aplicación de journaling móvil desarrollada en **React Native** con **Expo**. Este proyecto nace como un experimento técnico con manejo de entornos y arquitectura modular, y evolucionará hacia una herramienta personal de escritura y registro diario.
@@ -74,7 +74,7 @@ Lanza la aplicación en un simulador de iOS (macOS únicamente) o en un disposit
 Ejecuta ESLint para detectar errores y mantener la calidad del código.
 
 
-<h2 id="english"><a href="#english"><img src="https://flagcdn.com/w20/gb.png" alt="English" /></a> English</h2>
+<h2 id="english"><a href="#english"><img src="https://flagcdn.com/w20/gb.png" alt="English" /></a>🇬🇧</h2>
 
 A mobile journaling app developed with React Native and Expo. This project began as a technical experiment to manage environments and modular architecture, and will evolve into a personal tool for daily writing and reflection.`
 
